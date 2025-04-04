@@ -2,8 +2,8 @@
 echo "download world"
 ./download_world.sh
 echo "running server"
-if [ "$1" == "window" ]; then
-    copy server_win.properties server.properties
+if [ "$1" == "windown" ]; then
+    cp server_win.properties server.properties
     ./start_win.bat
 else
     cp server_linux.properties server.properties
