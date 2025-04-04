@@ -1,55 +1,59 @@
-[11:44:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[11:44:37] [ServerMain/INFO]: Loaded 1373 recipes
-[11:44:37] [ServerMain/INFO]: Loaded 1484 advancements
-[11:44:37] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[11:44:37] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
-[11:44:37] [Server thread/INFO]: Loading properties
-[11:44:37] [Server thread/INFO]: Default game type: SURVIVAL
-[11:44:37] [Server thread/INFO]: Generating keypair
-[11:44:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:44:37] [Server thread/INFO]: Using epoll channel type
-[11:44:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:44:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:44:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:44:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:44:38] [Server thread/INFO]: Preparing level "world"
-[11:44:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:44:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:44:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:44:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:44:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:44:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:44:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:44:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:44:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:44:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:44:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:44:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:44:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:44:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:44:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:44:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:44:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:44:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:44:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:44:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:44:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:44:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:44:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:44:49] [Server thread/INFO]: Time elapsed: 11007 ms
-[11:44:49] [Server thread/INFO]: Done (11.807s)! For help, type "help"
-[11:45:37] [Server thread/INFO]: zTryhard[/127.108.221.214:53899] logged in with entity id 9 at (241.79436331304356, 67.0, -942.0210217641278)
-[11:45:37] [Server thread/INFO]: zTryhard joined the game
-[11:46:03] [Server thread/INFO]: zTryhard lost connection: Disconnected
-[11:46:03] [Server thread/INFO]: zTryhard left the game
-[11:46:04] [Server thread/INFO]: Stopping the server
-[11:46:04] [Server thread/INFO]: Stopping server
-[11:46:04] [Server thread/INFO]: Saving players
-[11:46:04] [Server thread/INFO]: Saving worlds
-[11:46:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[11:46:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[11:46:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[11:46:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:46:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:46:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:46:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:53:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:53:44] [ServerMain/INFO]: Loaded 1373 recipes
+[11:53:44] [ServerMain/INFO]: Loaded 1484 advancements
+[11:53:45] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[11:53:45] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[11:53:45] [Server thread/INFO]: Loading properties
+[11:53:45] [Server thread/INFO]: Default game type: SURVIVAL
+[11:53:45] [Server thread/INFO]: Generating keypair
+[11:53:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:53:45] [Server thread/INFO]: Using epoll channel type
+[11:53:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:53:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:53:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:53:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:53:45] [Server thread/INFO]: Preparing level "world"
+[11:53:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:53:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:53:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:53:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:53:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:53:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:53:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:53:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:53:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:53:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:53:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:53:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:53:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:53:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:53:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:53:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:53:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:53:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:53:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:53:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:53:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:53:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:53:56] [Server thread/INFO]: Time elapsed: 10223 ms
+[11:53:56] [Server thread/INFO]: Done (11.124s)! For help, type "help"
+[11:53:56] [Server thread/INFO]: zTryhard (/127.234.31.208:54095) lost connection: Disconnected
+[11:53:59] [Server thread/INFO]: zTryhard[/127.241.79.232:37811] logged in with entity id 9 at (330.09527351814467, 64.0, -946.864276541005)
+[11:54:00] [Server thread/INFO]: zTryhard joined the game
+[11:54:00] [Server thread/INFO]: zTryhard lost connection: Disconnected
+[11:54:00] [Server thread/INFO]: zTryhard left the game
+[11:54:04] [Server thread/INFO]: zTryhard[/127.18.96.65:55577] logged in with entity id 10 at (330.09527351814467, 64.0, -946.864276541005)
+[11:54:04] [Server thread/INFO]: zTryhard joined the game
+[11:54:36] [Server thread/INFO]: Stopping the server
+[11:54:36] [Server thread/INFO]: Stopping server
+[11:54:36] [Server thread/INFO]: Saving players
+[11:54:36] [Server thread/INFO]: zTryhard lost connection: Server closed
+[11:54:36] [Server thread/INFO]: zTryhard left the game
+[11:54:36] [Server thread/INFO]: Saving worlds
+[11:54:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:54:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11:54:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11:54:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:54:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:54:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:54:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
