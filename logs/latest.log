@@ -1,0 +1,33 @@
+[01:06:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:06:04] [ServerMain/INFO]: Loaded 1373 recipes
+[01:06:04] [ServerMain/INFO]: Loaded 1484 advancements
+[01:06:04] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[01:06:04] [Server thread/INFO]: Loading properties
+[01:06:04] [Server thread/INFO]: Default game type: SURVIVAL
+[01:06:04] [Server thread/INFO]: Generating keypair
+[01:06:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:06:04] [Server thread/INFO]: Using default channel type
+[01:06:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:06:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:06:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:06:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:06:04] [Server thread/INFO]: Preparing level "world"
+[01:06:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:06:06] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[01:06:06] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[01:06:06] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[01:06:06] [Server thread/INFO]: Time elapsed: 1452 ms
+[01:06:06] [Server thread/INFO]: Done (2.219s)! For help, type "help"
+[01:07:06] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:08:11] [Server thread/INFO]: zTryhard[/127.0.0.1:62877] logged in with entity id 9 at (11.655195078689962, 63.0, -921.6999999880791)
+[01:08:11] [Server thread/INFO]: zTryhard joined the game
+[01:08:15] [Server thread/INFO]: zTryhard lost connection: Disconnected
+[01:08:15] [Server thread/INFO]: zTryhard left the game
+[01:09:15] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:10:10] [Server thread/INFO]: zTryhard[/127.0.0.1:62994] logged in with entity id 318 at (9.71660190341024, 63.0, -921.6628710050953)
+[01:10:10] [Server thread/INFO]: zTryhard joined the game
+[01:10:20] [Server thread/INFO]: zTryhard was slain by Iron Golem
+[01:10:22] [Server thread/INFO]: zTryhard lost connection: Disconnected
+[01:10:22] [Server thread/INFO]: zTryhard left the game
+[01:10:34] [Server thread/INFO]: zTryhard[/127.0.0.1:63017] logged in with entity id 887 at (-9.5, 63.0, -930.5)
+[01:10:34] [Server thread/INFO]: zTryhard joined the game
