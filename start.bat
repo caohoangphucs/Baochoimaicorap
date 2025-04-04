@@ -1,2 +1,2 @@
-java -Xmx12G -Xms12G -jar server.jar nogui
-pause
+git pull origin main
+java -Xmx512M -Xms512M -jar server.jar nogui

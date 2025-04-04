@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "1a31b0e1-1c98-3864-8cc0-f6f535246faf",
+    "name": "zTryhard",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
