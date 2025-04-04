@@ -1,41 +1,30 @@
-[19:02:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:02:29] [ServerMain/INFO]: Loaded 1373 recipes
-[19:02:29] [ServerMain/INFO]: Loaded 1484 advancements
-[19:02:29] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[19:02:29] [Server thread/INFO]: Loading properties
-[19:02:29] [Server thread/INFO]: Default game type: SURVIVAL
-[19:02:29] [Server thread/INFO]: Generating keypair
-[19:02:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:02:29] [Server thread/INFO]: Using default channel type
-[19:02:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:02:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:02:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:02:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:02:29] [Server thread/INFO]: Preparing level "world"
-[19:02:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:02:30] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[19:02:30] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[19:02:30] [Server thread/INFO]: Time elapsed: 581 ms
-[19:02:30] [Server thread/INFO]: Done (0.893s)! For help, type "help"
-[19:02:41] [Server thread/INFO]: zTryhard[/127.0.0.1:55315] logged in with entity id 9 at (323.19845309123684, 69.1212968405392, -998.4509653645373)
-[19:02:41] [Server thread/INFO]: zTryhard joined the game
-[19:02:52] [Server thread/INFO]: zTryhard lost connection: Disconnected
-[19:02:52] [Server thread/INFO]: zTryhard left the game
-[19:02:57] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[19:02:57] [Server thread/INFO]: copy <--[HERE]
-[19:02:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[19:02:59] [Server thread/INFO]: cp<--[HERE]
-[19:03:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[19:04:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[19:04:34] [Server thread/INFO]: cp<--[HERE]
-[19:04:41] [Server thread/INFO]: Stopping the server
-[19:04:41] [Server thread/INFO]: Stopping server
-[19:04:41] [Server thread/INFO]: Saving players
-[19:04:41] [Server thread/INFO]: Saving worlds
-[19:04:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:04:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:04:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:04:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:04:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:04:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:04:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:07:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:07:06] [ServerMain/INFO]: Loaded 1373 recipes
+[19:07:06] [ServerMain/INFO]: Loaded 1484 advancements
+[19:07:06] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[19:07:06] [Server thread/INFO]: Loading properties
+[19:07:06] [Server thread/INFO]: Default game type: SURVIVAL
+[19:07:06] [Server thread/INFO]: Generating keypair
+[19:07:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:07:06] [Server thread/INFO]: Using default channel type
+[19:07:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:07:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:07:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:07:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:07:06] [Server thread/INFO]: Preparing level "world"
+[19:07:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:07:07] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[19:07:07] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[19:07:07] [Server thread/INFO]: Time elapsed: 606 ms
+[19:07:07] [Server thread/INFO]: Done (0.869s)! For help, type "help"
+[19:07:11] [Server thread/INFO]: Stopping the server
+[19:07:11] [Server thread/INFO]: Stopping server
+[19:07:11] [Server thread/INFO]: Saving players
+[19:07:11] [Server thread/INFO]: Saving worlds
+[19:07:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:07:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:07:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:07:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:07:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:07:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:07:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
