@@ -1,3 +1,3 @@
 git reset --hard
-git pull origin main
+git pull origin
 java -Xmx512M -Xms512M -jar server.jar nogui
